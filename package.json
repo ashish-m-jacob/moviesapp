@@ -2,7 +2,7 @@
   "name": "moviesapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ashish-m-jacob.github.io/{moviesapp}",
+  "homepage": "https://ashish-m-jacob.github.io/moviesapp",
   "type": "module",
   "scripts": {
     "dev": "vite",
