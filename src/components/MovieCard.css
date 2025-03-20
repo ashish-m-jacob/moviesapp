@@ -1,0 +1,27 @@
+.movie {
+  display: flex;
+  flex-direction: column;
+  width: 12vw;
+  color: var(--font);
+  height: 50vh;
+  margin-right: 3vw;
+  margin-bottom: 15vh;
+}
+
+.movie-poster {
+  height: 80%;
+}
+
+.movie-poster img {
+  height: 100%;
+}
+
+.movie-info {
+  margin-top: 1.2rem;
+  text-align: center;
+  height: 20%;
+}
+
+.movie-info h2 {
+  font-size: 1rem;
+}
